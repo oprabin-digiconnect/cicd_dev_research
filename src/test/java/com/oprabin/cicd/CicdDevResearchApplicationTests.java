@@ -1,0 +1,13 @@
+package com.oprabin.cicd;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CicdDevResearchApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
