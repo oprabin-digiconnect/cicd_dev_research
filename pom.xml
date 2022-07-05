@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.oprabin</groupId>
     <artifactId>cicd-dev-research</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>cicd-dev-research</name>
     <description>cicd-dev-research</description>
     <properties>
